@@ -1,0 +1,12 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /aa
+    mvc:
+      view:
+        prefix: /
+        suffix: .jsp
+    #热部署
+    jsp:
+      init-parameters:
+        development: true
