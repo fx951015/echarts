@@ -9,7 +9,6 @@ public class EchartsApplication {
     public static void main(String[] args) {
         SpringApplication.run(EchartsApplication.class, args);
         System.out.println();
-        System.out.println("666");
     }
 
 }
