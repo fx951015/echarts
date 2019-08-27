@@ -17,6 +17,7 @@ public class EchartsApplication {
         System.out.println("cnm");
         System.out.println("nmsl");
         System.out.println("qnmd");
+        System.out.println("哈哈哈");
     }
 
 }
