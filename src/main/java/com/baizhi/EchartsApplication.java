@@ -15,6 +15,7 @@ public class EchartsApplication {
         System.out.println();
         System.out.println("呵呵，滾吧");
         System.out.println("cnm");
+        System.out.println("nmsl");
     }
 
 }
