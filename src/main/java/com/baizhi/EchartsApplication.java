@@ -14,6 +14,7 @@ public class EchartsApplication {
         System.out.println("你会唱跳rap篮球吗？");
         System.out.println();
         System.out.println("呵呵，滾吧");
+        System.out.println("cnm");
     }
 
 }
